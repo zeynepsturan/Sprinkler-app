@@ -1,3 +1,6 @@
+A specialized mobile application built to ensure the survival and health of newly planted trees by tracking hydration schedules and monitoring growth through an interactive map.
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7dc4c67a-e91e-4dd6-a171-3a60377e6d8e" alt="Sprinkler Logo" width="150" style="margin-bottom: 10px;">
   <br>
@@ -8,12 +11,6 @@
     <b>Tree Hydration & Care Tracker</b>
   </p>
 </div>
-
----
-
-A specialized mobile application built to ensure the survival and health of newly planted trees by tracking hydration schedules and monitoring growth through an interactive map.
-
----
 
 ## 🚀 Overview
 **Sprinkler** is a community-driven designed to solve the problem of forgotten saplings. It allows users to pinpoint trees on a map, keep a rigorous log of when they were last watered, and set reminders to ensure no tree is left to dry out.
